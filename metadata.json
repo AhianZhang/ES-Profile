@@ -1,0 +1,5 @@
+{
+  "name": "ES Profile Visualizer & AI Analyzer",
+  "description": "A sophisticated tool to visualize Elasticsearch profile results in a hierarchical tree view and leverage Gemini AI to analyze performance bottlenecks and suggest optimizations.",
+  "requestFramePermissions": []
+}
